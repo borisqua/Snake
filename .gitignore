@@ -1,1 +1,8 @@
+.gradle
+build/
+
+### IntelliJ IDEA ###
 .idea
+out/
+tmp
+*.iml
